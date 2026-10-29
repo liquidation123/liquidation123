@@ -1,57 +1,65 @@
-<div align="center">
+<p align="center"><img src="./assets/profile-header.svg" width="960" alt="Mingrui Tang: blue ASCII winking robot face, student builder, Python developer, and ASCII clouds." /></p>
 
-# Hi, I'm Mingrui Tang.
-### I build tools that make learning more useful—and more fun.
+<p align="center">
+  <a href="#projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#about--toolbox">About &amp; toolbox</a> &nbsp; / &nbsp;
+  <a href="https://math-knockout-2.onrender.com/">Play Out-Mathed</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/-mingrui-tang">LinkedIn</a>
+</p>
 
-Student builder · Python developer · Hackathon teammate
+## Projects
 
-[Explore my projects](#selected-projects) · [Play Out-Mathed](https://math-knockout-2.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/-mingrui-tang)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / Out-Mathed</h3>
+<p><b>Draw a fighter. Plot an equation.</b></p>
+<p>A collaborative browser game with curve-driven combat, drawing-based mass and inertia, AI opponents, and online multiplayer rooms.</p>
+<p><code>JavaScript</code> <code>Three.js</code><br/><code>Node.js</code> <code>WebSockets</code></p>
+<p><a href="https://github.com/liquidation123/Math-Knockout">Code →</a> &nbsp; <a href="https://math-knockout-2.onrender.com/">Play →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / DECA Study Companion</h3>
+<p><b>Make each reviewed mistake useful.</b></p>
+<p>A Chrome extension for practice-question review, vocabulary learning, and mistake patterns, with AI explanations and verified saves to selected Google Docs and Sheets.</p>
+<p><code>JavaScript</code> <code>Chrome MV3</code><br/><code>OpenAI API</code> <code>Google APIs</code></p>
+<p><a href="https://github.com/liquidation123/DECA_MC_assistant">Code →</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>03 / AkaeWeo</h3>
+<p><b>Give student work a place on the calendar.</b></p>
+<p>An AI-powered planner connecting tasks, calendars, project timelines, and natural-language assistance. Scheduling accounts for priorities, deadlines, and availability, with a Firebase backend and Google Calendar/Tasks integration.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Gemini</code> &nbsp; · &nbsp; <i>In development / private source</i></p>
+</td>
+</tr>
+</table>
 
-</div>
+<pre>       .--.                                .--.
+    .-(    ).           .--.            .-(    ).
+   (___.__)__)       .-(    ).         (___.__)__)
+                    (___.__)__)</pre>
 
----
+## About & toolbox
 
-I'm interested in the space where **software, education, and entrepreneurship** meet. My projects range from an equation-driven multiplayer game to an AI scheduling platform and a study companion for DECA practice.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>The person</h3>
+<p>I'm interested in where <b>software, education, and entrepreneurship</b> meet.</p>
+<p>I enjoy shaping ideas, building working prototypes, and bringing teammates' contributions together.</p>
+</td>
+<td width="50%" valign="top">
+<h3>The approach</h3>
+<p><b>Strongest language:</b> Python</p>
+<p><b>Project experience:</b> JavaScript, TypeScript, React, Firebase, and API integrations.</p>
+<p><b>Workflow:</b> AI-assisted development, Git collaboration, and iterative prototyping.</p>
+</td>
+</tr>
+</table>
 
-I enjoy shaping the idea, building a working prototype, and bringing teammates' contributions together. Python is my strongest language; I use AI-assisted development to explore web applications and iterate on real projects.
-
-## Selected projects
-
-### ⛰️ [Out-Mathed](https://github.com/liquidation123/Math-Knockout)
-**Draw a fighter. Plot an equation. Stay on the mountain.**
-
-A collaborative browser game that turns mathematical functions into combat: curve-driven projectiles, drawing-based mass and inertia, AI opponents, and online multiplayer rooms.
-
-
-JavaScript · Three.js · Node.js · WebSockets
-
-
-[View the code →](https://github.com/liquidation123/Math-Knockout) · [Play the game →](https://math-knockout-2.onrender.com/)
-
-### 📚 [DECA MC Study Companion](https://github.com/liquidation123/DECA_MC_assistant)
-**Turn a reviewed mistake into something you can learn from.**
-
-A Chrome extension for submitted practice-question review, vocabulary learning, and mistake-pattern analysis. Integrates AI explanations with user-selected Google Docs and Sheets, keeping pending records visible and verifying saves.
-
-JavaScript · Chrome Manifest V3 · OpenAI API · Google Workspace APIs
-
-[View the code →](https://github.com/liquidation123/DECA_MC_assistant)
-
-### 🗓️ AkaeWeo
-**Give student work a place on the calendar.**
-
-An AI-powered student planner combining tasks, calendar views, project timelines, and natural-language assistance. Scheduling accounts for priorities, deadlines, and availability, with a Firebase backend and Google Calendar/Tasks integration.
-
-React · TypeScript · Firebase · Gemini
-
-*In development · Source repository is private.*
-
-## Beyond the code
-
-- **MathHacks 2.0:** 2nd place, Main Project Track; originated the team's project idea and coordinated Git integration.
-- **DECA ICDC:** 5th place in Principles of Entrepreneurship; also co-train students in finance events.
-- **SHAD Canada:** Project team lead for a team that earned Best Overall Project and Best Presentation.
-
-## Let's build something
-
-I'm interested in teaming up on **hackathons, learning tools, and thoughtful uses of AI**. If you like turning an ambitious idea into a working demo, [let's connect](https://www.linkedin.com/in/-mingrui-tang).
+<pre>       .--.                                .--.
+    .-(    ).           .--.            .-(    ).
+   (___.__)__)       .-(    ).         (___.__)__)
+                    (___.__)__)</pre>
