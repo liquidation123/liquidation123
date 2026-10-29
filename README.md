@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/profile-header.svg" width="960" alt="Mingrui Tang: blue ASCII winking robot face, student builder, Python developer, and ASCII clouds." /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/liquidation123/liquidation123/c8cd987ed790480d6f22c7becefcebcdbf104131/assets/profile-header.svg" width="960" alt="Mingrui Tang: blue ASCII winking robot face, student builder, Python developer, and ASCII clouds." /></p>
 
 <p align="center">
   <a href="#projects">Projects</a> &nbsp; / &nbsp;
